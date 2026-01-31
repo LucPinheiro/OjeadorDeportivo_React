@@ -49,7 +49,16 @@ Las familias crean perfiles de jugadores con características, historial, fotos 
 ---
 
 ## 🧩 Estructura sugerida del proyecto
-> (Ajusta esta sección si tu repo tiene otra estructura)
+src/
+├── assets/ # Imágenes, vídeos y recursos estáticos
+├── components/ # Componentes reutilizables de la aplicación
+├── pages/ # Vistas principales (Landing, Perfil, Búsqueda, etc.)
+├── services/ # Lógica de acceso a datos y servicios (API, auth, etc.)
+├── styles/ # Hojas de estilo (CSS / SCSS)
+├── App.jsx # Componente raíz
+└── main.jsx # Punto de entrada de la aplicación
+
+
 
 
 
