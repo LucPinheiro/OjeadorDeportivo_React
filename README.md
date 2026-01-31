@@ -50,7 +50,7 @@ Las familias crean perfiles de jugadores con características, historial, fotos 
 
 ## 🧩 Estructura sugerida del proyecto
 ## 📁 Estructura recomendada del repositorio
-
+```text
 /
 ├── src/                 # Código fuente
 │   ├── assets/          # Imágenes, vídeos y recursos estáticos
