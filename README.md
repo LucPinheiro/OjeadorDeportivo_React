@@ -48,8 +48,7 @@ Las familias crean perfiles de jugadores con características, historial, fotos 
 
 ---
 
-## 🧩 Estructura sugerida del proyecto
-## 📁 Estructura recomendada del repositorio
+## 📁 Estructura del proyecto
 ```text
 /
 ├── src/                 # Código fuente
