@@ -1,4 +1,4 @@
-# OjeadorDeportivo_React ⚽️
+# Ojeador Deportivo: App React ⚽️
 
 Aplicación web (React) pensada para conectar **ojeadores** y **familias de jóvenes futbolistas**.  
 Las familias crean perfiles de jugadores con características, historial, fotos y vídeos; los ojeadores pueden consultar perfiles y **enviar solicitudes de contratación**. :contentReference[oaicite:1]{index=1}
